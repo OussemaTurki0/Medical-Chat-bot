@@ -1,1 +1,1 @@
-# Medical-Chat-bot
+conda activate Medibot
