@@ -9,3 +9,4 @@ langchain_community
 langchain-google-genai
 google-generativeai
 langchain_experimental
+-e .
