@@ -205,3 +205,15 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Conda / installers
+Miniconda3-latest-Linux-x86_64.sh
+
+# PDFs / datasets
+Data/*.pdf
+
+# Python environments
+Medibot/
+.venv/
+env/
+__pycache__/
